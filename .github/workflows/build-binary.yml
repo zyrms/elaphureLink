@@ -10,7 +10,7 @@ on:
       - '*.md'
       - 'assets/**'
   watch:
-      types:started
+    types: started
 
 jobs:
   build:
