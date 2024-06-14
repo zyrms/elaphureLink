@@ -1,4 +1,4 @@
-//﻿#include "git_info.hpp"
+﻿#include "git_info.hpp"
 
 #include <string>
 
